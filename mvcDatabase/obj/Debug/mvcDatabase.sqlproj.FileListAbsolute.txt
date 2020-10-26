@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\bin\Debug\mvcDatabase.dacpac
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\bin\Debug\mvcDatabase.dll
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\bin\Debug\mvcDatabase.pdb
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\obj\Debug\mvcDatabase.sqlprojAssemblyReference.cache
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\obj\Debug\mvcDatabase.dll
+C:\Users\User\Downloads\mvc\opit – Копие (2)\mvcDatabase\obj\Debug\mvcDatabase.pdb
